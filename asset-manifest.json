@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hostanimatedweb/static/css/main.adf6e874.css",
+    "main.js": "/hostanimatedweb/static/js/main.a539c213.js",
+    "static/media/webdev.jpg": "/hostanimatedweb/static/media/webdev.d1d2a3b1e86c0e66c8a1.jpg",
+    "static/media/market.jpg": "/hostanimatedweb/static/media/market.8d91837c33252f1cba0f.jpg",
+    "static/media/app.jpg": "/hostanimatedweb/static/media/app.539ccc6183e257996679.jpg",
+    "static/media/software.jpg": "/hostanimatedweb/static/media/software.bed41dac06ab3c2cbf55.jpg",
+    "static/media/android.jpg": "/hostanimatedweb/static/media/android.3dc85c82ae5fadd787f3.jpg",
+    "static/media/digital.jpg": "/hostanimatedweb/static/media/digital.ee4ba4f5c8af075bea39.jpg",
+    "static/media/about-us.webp": "/hostanimatedweb/static/media/about-us.3b71f7bf78e14025d556.webp",
+    "static/media/undraw_maker_launch_re_rq81.svg": "/hostanimatedweb/static/media/undraw_maker_launch_re_rq81.dce039eb1528c613893fe3ad17a0e018.svg",
+    "index.html": "/hostanimatedweb/index.html",
+    "main.adf6e874.css.map": "/hostanimatedweb/static/css/main.adf6e874.css.map",
+    "main.a539c213.js.map": "/hostanimatedweb/static/js/main.a539c213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adf6e874.css",
+    "static/js/main.a539c213.js"
+  ]
+}
